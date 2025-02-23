@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.label{
+    color: blue;
+}
+.question {
+    margin-bottom: 20px;
+}
+.result {
+    font-weight: bold;
+    margin-top: 20px;
+}
+.question-result{
+    margin-top: 20px;
+}
+.correct-answer {
+    color: green;
+}
+.wrong-answer {
+    color: red;
+    text-decoration: line-through;
+}
+.passed {
+    color: green;
+    font-weight: bold;
+}
+.failed {
+    color: red;
+    font-weight: bold;
+}
